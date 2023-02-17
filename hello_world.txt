@@ -1,0 +1,2 @@
+To store this file ctrl +s and then in terminal type git add hello_world.txt then status and
+HELLO WORLD!!
